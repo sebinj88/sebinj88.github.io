@@ -1,0 +1,84 @@
+# jemdoc: menu{MENU}{publications.html}, addcss{publications.css}
+= Publications
+
+== Journal Papers
+
+- Sebin Gracy, Yifan Xu, Ji Liu, Tamer Basar, Cesar A. Uribe “Networked Competitive Bivirus SIS Model -Analysis of the Discrete-Time Caser”, IEEE Open Journal of Control Systems 2026. DOI: 10.1109/OJCSYS.2026.3733517. Note: To appear.
+
+- Sebin Gracy, Jesse Wayment, Irinel Constantin Mor˘arescu, Vineeth S. Varma, Philip E. Pare “Analysis and Control of a Multi-layer Time-Varying SIS Model with an Infrastructure Network”, European Journal of Control.DOI: 0.1016/j.ejcon.2026.1015702026, September 2026. 
+
+- Sebin Gracy, Brian D. O. Anderson, Mengbin Ye, César A. Uribe “Networked Competitive Bivirus SIS Spread with Higher Order Interactions”, Automatica DOI: 10.1016/j.automatica.2025.112799, March 2026. [Bivirus_Hypergraph_SIS__Automatica.pdf (pdf)]
+
+- Ciyuan Zhang, Sebin Gracy, Tamer Ba̧sar, Philip E Paré “Analysis, State Estimation, and Control for the Networked Competitive Multi-Virus SIR Model”, Automatica, DOI: 10.1016/j.automatica.2025.112479, October 2025 [Automatica-multi-virus-SIR-Ciyuan.pdf (pdf)].
+
+- Yuan Wang, Sebin Gracy, Hideaki Ishii, Karl H Johansson “Suppression and Eradication of SIS Epidemics: A local state feedback approach,” International Journal of Robust and Nonlinear Control, DOI: 10.1002/rnc.7891, February, 2025 [IJRNC-Yuan-2025.pdf (pdf)]..
+
+- Sebin Gracy, Philip E Paré, Ji Liu,  Henrik Sandberg,  Carolyn L. Beck, Karl H Johansson,  Tamer Ba̧sar "Modeling and analysis of a coupled SIS bi-virus model", Automatica,  DOI: 10.1016/j.automatica.2024.111937,  January 2025 [Automatica-bivirus-coupled.pdf (pdf)]..  
+
+- Mengbin Ye, Brian D.O. Anderson, Axel Janson, Sebin Gracy,  Karl H Johansson ``Competitive Epidemic Networks with Multiple Survival-of-the-fittest Outcomes'',  Systems & Control Letters. DOI: 10.1016/j.sysconle.2024.105907,  November 2024 [Ben_Bivirus_SCL.pdf (pdf)].
+
+- Axel Janson, Sebin Gracy , Philip E Paré,  Henrik Sandberg, Karl H Johansson ``Competitive Networked Bi-Virus Spread: Existence of Coexistence Equilibria'', Mathematical Biosciences, Special issue on Dynamical Systems in the Life Sciences.  DOI: 10.1016/j.mbs.2024.109286, November 2024 [Axel_math-Bio.pdf (pdf)].. 
+
+- Sebin Gracy, Mengbin Ye, Brian D. O. Anderson, César A. Uribe “Towards Understanding the Endemic Behavior of a Competitive Tri-Virus SIS Networked Model”, SIAM Journal on Applied Dynamical Systems. DOI: 10.1137/23M1563074, Vol. 23, No. 2, pp. 1372–1410, June 2024 [SIADS-Tri_Virus.pdf (pdf)].
+
+- Sebin Gracy, José I Caiza, Philip E Paré, César A Uribe "Multi-competitive time-varying networked SIS model with an infrastructure network" IFAC Journal of Systems and Control 100254,  DOI: 10.1016/j.ifacsc.2024.100254  March 2024. 
+
+- Philip E. Paré, Axel Janson, Sebin Gracy, Ji Liu, Henrik Sandberg, Karl H Johansson “Multi-Layer SIS Model with an Infrastructure Network” IEEE Transactions on Control of Network Systems, DOI: 10.1109/TCNS.2022.3203352 Volume 10, Issue 1, pp. 295 - 307, March 2023 [TCNS-4.pdf (pdf)].
+
+- Sebin Gracy, Jezdimir Milošević, Henrik Sandberg. "Security index based on perfectly undetectable attacks: Graph-theoretic conditions," Automatica.  DOI:10.1016/j.automatica.2021.109925, Volume 134, pp. 109925, December 2021 [Automatica-Security-Index.pdf (pdf)]. 
+
+- Sebin Gracy, Philip E. Paré, Henrik Sandberg, Karl H Johansson. “Analysis and Distributed Control of Periodic Epidemic Processes," IEEE Transactions on Control of Network Systems, DOI: 10.1109/TCNS.2020.3017717, Volume 8 (1) pp. 123-134 March 2021 [TCNS-3.pdf (pdf)]. 
+
+- Federica Garin, Sebin Gracy, Alain Y. Kibangou. “Strong Structural Input and State Observability of Linear Time-Invariant Systems: Graphical Conditions and Algorithms." European Journal of Control, Volume 58 pp. 27-42, January 2021 [Federica-EJC.pdf (pdf)].  
+
+- Sebin Gracy, Federica Garin, Alain Y. Kibangou. “Input and State Observability of Network Systems with Time-Varying Topology," IEEE Transactions on Control of Network Systems, DOI: 10.1109/TCNS.2018.2880304, Volume 6 (2) pp. 897-905, June 2019 [TCNS-2.pdf (pdf)]. 
+
+- Sebin Gracy, Federica Garin, Alain Y. Kibangou. “Structural and Strongly Structural Input and State Observability of Linear Network Systems," IEEE Transactions on Control of Network Systems, DOI:10.1109/TCNS.2017.2782489, Volume 5 (4) pp. 2062-2072, October 2018 [TCNS-1.pdf (pdf)]. 
+
+
+
+== Conference Papers
+- Saba Samadi, Jose I. Caiza, Sebin Gracy, Philip E. Pare “A Networked SIS Epidemic–Opinion Model with Higher-Order Interactions”, IEEE Conference on Decision and Control, CDC, Honolulu, HI, USA, 2026. Note: To Appear.
+
+- Benjamin Catalano, Keith Paarporn, Sebin Gracy “Game-theoretic Social Distancing in Competitive Bi-Virus SIS Epidemics”, pp. 1898-1903 American Control Conference, ACC, New Orleans, LA, USA, 2026. 
+
+- Sebin Gracy,  Brian D. O. Anderson,  Mengbin Ye,  César A. Uribe  “Competitive Networked Bivirus SIS spread over Hypergraphs”, pp. 4409-4415, American Control Conference, ACC, Toronto, Canada, 2024.
+
+-  Sebin Gracy, Ji Liu,  Tamer Ba̧sar,  César A. Uribe  “A Discrete-time Networked Competitive Bivirus SIS Model”, pp. 3398 - 3403, European Control Conference, ECC, Stockholm, Sweden, 2024.
+
+- Sebin Gracy,  Yuan Wang,  Philip E Paré,  César A. Uribe   “Multi-Competitive Virus Spread over a Time-Varying Networked SIS Model with an Infrastructure Network”, pp. 19-24, IFAC 2023 World Congress, Yokohama, Japan, 2023.
+
+- Sebin Gracy,  Mengbin Ye,  Brian D. O. Anderson, César A. Uribe  “On the Endemic Behavior of a Competitive Tri-Virus SIS Networked Model”, pp. 2313-2318, American Control Conference, ACC, San Diego, CA, USA, 2023.
+
+- Yuan Wang, Sebin Gracy,  César A. Uribe ,  Hideaki Ishii,  Karl H Johansson “A State Feedback Controller for Mitigation of Continuous-Time Networked SIS Epidemics”, pp. 89–94, 4th IFAC Workshop on Cyber-Physical & Human Systems, CPHS, Houston, TX, USA, 2022.
+
+- Apostolos I. Rikos, Jakob Nylof,  Sebin Gracy, Karl H Johansson  “Distributed Finite-Time Privacy-Preserving Optimal Allocation of Test Kits for Controlling Pandemic Spreading”, pp. 64-70, 4th IFAC Workshop on Cyber-Physical & Human Systems, CPHS, Houston, TX, USA, 2022.
+
+- Ciyuan Zhang, Sebin Gracy, Tamer Ba̧sar, Philip E Paré “A Networked Competitive Multi-Virus SIR Model: Analysis and Observability,” pp. 13-18, 9th IFAC Conference on Distributed Control & Estimation of Network Systems, NecSys, Zurich, Switzerland, 2022. IFAC Young Author Award
+Finalist (as coauthor).
+
+- Sebin Gracy, Irinel Constantin  Morarescu, Vineeth S. Varma, Philip E Paré “Analysis and On/Off Lockdown Control for Time-Varying SIS Epidemics with a Shared Resource,” pp.1660-1665, European Control Conference London, UK, 2022.
+
+- Ludvig Lindstrom, Sebin Gracy, Sindri Magnusson, Henrik Sandberg “Leakage Localization in Water Distribution Networks: A Model-Based Approach,” pp. 1515-1520, European Control Conference London, UK, 2022.
+
+- Yuan Wang, Sebin Gracy, Hideaki Ishii, Karl H Johansson “Suppressing the Endemic Equilibrium in SIS Epidemics: A State-Dependent Approach,” pp. 163–168, 11th IFAC Symposium on Biological and Medical Systems, Ghent, Belgium, 2021.
+
+- Axel Janson, Sebin Gracy, Philip E Paré , Henrik Sandberg, Karl H Johansson “Analysis of a Networked SIS Multi-Virus Model with a Shared Resource,” pp. 797–802, 3rd IFAC Workshop on Cyber-Physical & Human Systems, Shanghai, China, 2020.
+
+- Philip E Paré , Sebin Gracy, Henrik Sandberg, Karl H Johansson “Data-Driven Distributed Mitigation Strategies and Analysis of Mutating Epidemic Processes,” pp. 6138-6143, 59th IEEE Conference on Decision and Control, Jeju Island, South Korea, 2020.
+
+- Sebin Gracy, Jezdimir Milosevic, Henrik Sandberg “Actuator Security Index for Structured Systems,” pp. 2993-2998, American Control Conference, Denver, CO, USA, 2020.
+
+- Jezdimir Milosevic, Sebin Gracy, Henrik Sandberg “On Actuator Security Indices,” pp. 182-187, 14th International Conference on Critical Information Infrastructures Security, Linkoping, Sweden, 2019.
+
+- Sebin Gracy, Federica Garin, Alain Y. Kibangou “Strong Structural Input and State Observability for LTI Network Systems,” pp. 2516-2521, European Control Conference, Naples, Italy, 2019.
+
+- Sophie M. Fosson, Federica Garin, Sebin Gracy, Alain Y. Kibangou, Dennis Swart “Input and State Estimation Exploiting Input Sparsity,” pp. 2344-2349, European Control Conference, Naples,Italy, 2019.
+
+- Federica Garin, Sebin Gracy, Alain Y. Kibangou, “Unbiased Filtering for State and Unknown Input with Delay,” pp. 343-348, 7th IFAC Conference on Distributed Control & Estimation of Network Systems, Groningen, Netherlands, 2018.
+
+- Sebin Gracy, Federica Garin, Alain Y. Kibangou “Strong Structural Input and State Observability of LTV Network Systems with Multiple Unknown Inputs,” pp. 7357-7362, IFAC 2017 World Congress, Toulouse, France, 2017.
+
+- Alain Y. Kibangou, Federica Garin, Sebin Gracy., “Input and State Observability of Network Systems with a Single Unknown Input,” pp. 37-42, 6th IFAC Conference on Distributed Control & Estimation of Network Systems, Tokyo, Japan, 2016.
+
+`
