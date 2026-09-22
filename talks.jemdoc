@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{talks.html}
+# jemdoc: addcss{talks.css}
+= Talks
+
+
+- Networked Dynamical Systems: Epidemics and Security of Cyber-Physical Systems *School of Mathematical Sciences, Adelaide University, Adelaide, Australia*, May 2026
+(hosted by Dr. Mengbin Ye)
+- Networked Dynamical Systems: Epidemics and Security of Cyber-Physical Systems, *Department of Electrical Engineering, IISc, Bangalore, India*, May 2025.
+- Multi-Competitive Viruses: From Pairwise Interactions to Higher-Order Interactions, *Department of Electrical Engineering, IIT Madras, Chennai, India*, May 2025 (hosted by Prof. Bharadwaj Satchidanandan).
+- Multi-Competitive Viruses: From Pairwise Interactions to Higher-Order Interactions, *Department of Electrical and Computer Engineering, Stony Brook University, Stony Brook, NY, USA*, November, 2024 (hosted by Prof. Ji Liu).
+- Spreading Processes over Networks, *Mathematical Biology Seminar, University of Iowa, Iowa City, IA, USA*, November, 2023 (hosted by Prof. Zahra Aminzare) (Virtual talk).
+- Spreading Processes over Networks *Applied Mathematics Colloquium, University of Colorado-Boulder, Boulder, CO, USA*, October, 2023 (hosted by Prof. Stephen Becker).
+- Spreading Processes over Networks, *ELLIIT Focus Period on Network Dynamics and Control, Linkoping University, Linkoping, Sweden*, October, 2023.
+- Spreading Processes over Networks, *Division of Systems and Control Department of Information Technology, Uppsala University, Uppsala, Sweden*, September, 2023 (hosted by Prof. Andre Teixiera).
+- Spreading Processes over Networks, *Division of Decision and Control Systems, KTH, Stockholm, Sweden*, September, 2023 (hosted by Prof. Karl Henrik Johansson).
+- Networked Systems - Epidemics, *Department of Electrical and Computer Engineering (Prof. Santiago Segarra's group meeting), Rice University, Houston, TX, USA*, April, 2023.
+- Networked Systems: Epidemics, and Security of Cyber-Physical Systems, *Department of Electrical Engineering and Computer Science, South Dakota School of Mines and Technology, Rapid City, SD, USA*, March, 2023.
+- Networked Systems: Analysis and Mitigation Strategies for Epidemics, and Security of Cyber-Physical Systems, *Department of Systems & Control, IIT-Bombay, India*, June, 2021 (Virtual talk).
+- Networked Systems: Analysis and Mitigation Strategies for Epidemics, and Security of Cyber-Physical Systems, *Department of Electrical Engineering, IIT-Hyderabad, India*, June, 2021 (Virtual talk).
+- Networked Systems: Analysis and Mitigation Strategies for Epidemics, and Security of Cyber-Physical Systems, *Department of Electrical Engineering, IIT-Bombay, India*, April, 2021 (Virtual talk)
+- Networked Systems: Analysis and Mitigation Strategies for Epidemics, and Security of Cyber-Physical System, *Department of Electrical Engineering, IIT-Delhi, India*, March, 2021 (Virtual talk)
+- Security Index for Structured System, *Division of Decision and Control Systems, KTH, Stockholm, Sweden*, April, 2020.
