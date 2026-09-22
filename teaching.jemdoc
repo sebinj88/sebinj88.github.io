@@ -1,8 +1,0 @@
-# jemdoc: menu{MENU}{teaching.html}
-# jemdoc: addcss{teaching.css}
-== Teaching
-
-- *EE 313:* Signals and Systems (Fall 2025)
-- *EE 314:* Control Systems (Spring 2024, Spring 2025)
-- *EE 655:* Linear Systems (Fall 2024, Fall 2025)
-- *CSC 775:* Network Systems (Spring 2025)
