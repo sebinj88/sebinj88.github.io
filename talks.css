@@ -1,0 +1,44 @@
+/* Talks Page Styles */
+
+/* Body and general styling */
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 15px !important;
+    line-height: 1.6 !important;
+}
+
+/* Page layout */
+#layout-content {
+    background-color: #ffffff !important;
+}
+
+#layout-content h1 {
+    margin-bottom: 0.3em !important;
+    color: #527bbd !important;
+    font-size: 165% !important;
+    border-bottom: 1px solid #aaaaaa !important;
+}
+
+/* Reduce spacing between list items */
+ul li {
+    margin-bottom: 0.5em !important;
+    line-height: 1.5 !important;
+}
+
+/* Style paragraphs in list items */
+ul li p {
+    margin: 0 !important;
+    line-height: 1.6 !important;
+}
+
+/* Bold text (location) - jemdoc uses <b> tags */
+b, strong {
+    font-weight: bold !important;
+    color: #2c3e50 !important;
+}
+
+/* If text appears in subtitle div */
+#subtitle b, #subtitle strong {
+    font-weight: bold !important;
+    color: #2c3e50 !important;
+}

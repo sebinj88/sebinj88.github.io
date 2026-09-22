@@ -1,0 +1,6 @@
+ # jemdoc menu
+   MENU
+       Home                [test.html]
+       Publications        [publications.html]
+       Teaching            [teaching.html]
+       Team                [team.html]

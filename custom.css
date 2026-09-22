@@ -1,0 +1,140 @@
+/* Body and general styling - match Henrik's colors */
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 15px !important;
+    line-height: 1.6 !important;
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+/* Page layout */
+#layout-content {
+    background-color: #ffffff !important;
+}
+
+    /* Tighter section spacing */
+    #layout-content h2 {
+        margin-top: 1.2em !important;
+        margin-bottom: 0.4em !important;
+        font-size: 1.4em !important;
+        font-weight: bold !important;
+        color: #527bbd !important;
+    }
+
+    #layout-content h1 {
+        margin-bottom: 0.3em !important;
+        color: #527bbd !important;
+    }
+
+    /* Compact paragraph spacing */
+    #layout-content p {
+        margin-top: 0.5em !important;
+        margin-bottom: 0.5em !important;
+    }
+
+    /* Compact lists - single spacing */
+    #layout-content ul {
+        margin-top: 0.2em !important;
+        margin-bottom: 0.8em !important;
+        padding-left: 1.5em !important;
+    }
+
+    #layout-content li {
+        margin-bottom: 0.2em !important;
+        line-height: 1.5 !important;
+    }
+
+    /* Remove extra spacing between consecutive lists */
+    #layout-content ul + ul {
+        margin-top: -0.6em !important;
+    }
+
+    /* Profile image section */
+    #layout-content .imgtable {
+        margin-top: 0.5em !important;
+        margin-bottom: 1em !important;
+    }
+
+        #layout-content .imgtable td {
+            padding-right: 15px !important;
+        }
+
+    /* Link styling - Henrik's blue color */
+    #layout-content a {
+        color: #0000ee !important;
+        text-decoration: none !important;
+    }
+
+        #layout-content a:hover {
+            color: #551a8b !important;
+            text-decoration: underline !important;
+        }
+
+        #layout-content a:visited {
+            color: #551a8b !important;
+        }
+
+/* Menu styling - light gray background */
+#layout-menu {
+    background: #f0f0f0 !important;
+    border-right: 1px solid #dddddd !important;
+    padding: 10px !important;
+}
+
+.menu-category {
+    color: #527bbd !important;
+    font-weight: bold !important;
+    margin-top: 0.5em !important;
+    margin-bottom: 0.3em !important;
+}
+
+.menu-item {
+    padding: 2px 0px !important;
+}
+
+    .menu-item a {
+        color: #000000 !important;
+        padding: 2px 5px !important;
+        display: block !important;
+    }
+
+        .menu-item a:hover {
+            background-color: #e0e0e0 !important;
+            text-decoration: none !important;
+        }
+
+        .menu-item a.current {
+            background-color: #d0d0d0 !important;
+            font-weight: bold !important;
+        }
+
+/* Tighten up the top title area */
+#toptitle {
+    margin-bottom: 0.5em !important;
+    border-bottom: 1px solid #dddddd !important;
+    padding-bottom: 0.3em !important;
+}
+
+/* News items - compact format */
+#layout-content li p {
+    margin: 0 !important;
+    display: inline !important;
+}
+
+/* Table styling */
+table {
+    border-collapse: collapse !important;
+}
+
+/* Footer */
+#footer {
+    margin-top: 2em !important;
+    padding-top: 1em !important;
+    border-top: 1px solid #dddddd !important;
+    color: #666666 !important;
+    font-size: 0.9em !important;
+}
+
+#footer-text {
+    text-align: center !important;
+}

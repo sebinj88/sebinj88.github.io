@@ -1,0 +1,45 @@
+# jemdoc: menu{MENU}{index.html}, addcss{custom.css}
+= Sebin Gracy
+
+~~~
+{}{img_left}{SebinGracy.jpg}{Profile photo}{250px}{250px}{}
+*Assistant Professor* \n
+Department of Electrical Engineering and Computer Science \n
+South Dakota School of Mines and Technology, \n
+Rapid City, SD, USA. \n
+
+*Email:* sebin.gracy@sdsmt DOT edu \n
+*Office:* EEP 321 \n
+
+\[[https://scholar.google.com/citations?user=CgpjrpEAAAAJ&hl=en Google Scholar]\] \[[https://www.researchgate.net/profile/Sebin-Gracy?ev=hdr_xprf ResearchGate]\] \[[www.linkedin.com/in/sebin-gracy-872a7162 LinkedIn]\] \[[CV_Sebin.pdf CV]\]
+~~~
+
+== About Me
+
+I am an Assistant Professor in the [https://www.sdsmt.edu/academics/academic-departments/electrical-engineering-and-computer-science/index.html  Department of Electrical Engineering and Computer Science] at the [https://www.sdsmt.edu/index.html South Dakota School of Mines and Technology] in Rapid City, SD. 
+
+Previously, I was a Junior Fellow in the Rice Academy of Fellows at  [https://www.rice.edu/ Rice University]
+in Houston, TX. I was hosted by  [https://cauribe.rice.edu/ César Uribe]. Before going to Rice, I was a  postdoctoral scholar working with [https://people.kth.se/~hsan/ Henrik Sandberg] and [https://people.kth.se/~kallej/ Karl Henrik Johansson]
+in the [https://www.kth.se/is/dcs/division-of-decision-and-control-systems-1.788078 Division of Decision and Control Systems] at the [https://www.kth.se/en KTH Royal Institute of Technology] in Stockholm, Sweden.
+
+I received my Ph.D. in Automatic Control from [https://www.univ-grenoble-alpes.fr/ Université Grenoble Alpes] in 2018, under the joint supervision of [https://www.gipsa-lab.grenoble-inp.fr/user/alain.kibangou Dr. Alain Kibangou] and [https://necs.inrialpes.fr/people/garin/ Dr. Federica Garin]. Prior to that, I received an MS degree in Electrical Engineering from the [https://www.colorado.edu/  University of Colorado-Boulder] in 2013.
+
+== Research Interests
+
+- Stability analysis and control of  dynamic networked systems, with a particular emphasis on epidemiological networks.
+- Theory of structured systems, with a focus on studying security in cyber-physical system
+
+
+== Applications
+
+- Public health
+- Spread of rumors/opinions in social networks
+- Resilient operation of infrastructure networks
+
+
+== News
+
+- *\[Nov 2025\]* Joint paper with Brian, Ben and Cesar accepted in Automatica!
+
+
+Last updated: November 2025

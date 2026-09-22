@@ -1,0 +1,83 @@
+# jemdoc: menu{MENU}{index.html}
+= Your Name
+
+~~~
+{}{img_left}{photos/profile.jpg}{Profile photo}{200px}{250px}{}
+*PhD Student / Postdoctoral Researcher / Assistant Professor* \n
+Department of Computer Science \n
+University Name \n
+City, State/Country \n
+
+*Email:* yourname \[@\] university \[DOT\] edu \n
+*Office:* Building Name, Room 123 \n
+
+\[[https://scholar.google.com Google Scholar]\] \[[https://github.com/yourusername GitHub]\] \[[https://linkedin.com/in/yourprofile LinkedIn]\] \[[cv.pdf CV]\]
+~~~
+
+== About Me
+
+I am a \[PhD student\/postdoctoral researcher\/assistant professor\] in the Department of \[Your Department\] at \[Your University\], where I work with [Advisor Name]. My research interests lie at the intersection of \[Research Area 1\], \[Research Area 2\], and \[Research Area 3\].
+
+Prior to joining \[Current Institution\], I received my \[Degree\] from \[University\] in \[Year\], where I worked on \[Brief description of previous work\].
+
+== Research Interests
+
+- Machine Learning and Artificial Intelligence
+- Computer Vision and Image Processing
+- Natural Language Processing
+- Deep Learning Theory and Applications
+
+== News
+
+- *\[Nov 2024\]* Paper accepted to Conference Name 2025!
+- *\[Sep 2024\]* Presented our work at Workshop Name.
+- *\[Jul 2024\]* Started position as \[Position\] at \[Institution\].
+- *\[May 2024\]* Awarded the \[Award Name\] for \[Achievement\].
+
+== Publications
+
+=== Conference Papers
+
+- *Title of Your Most Recent Paper: A Novel Approach* \n
+  Your Name, Coauthor One, Coauthor Two \n
+  /Conference on Important Topic (CIT), 2025/ \n
+  \[[paper.pdf PDF]\] \[[https://github.com/yourusername/project Code]\] \[[slides.pdf Slides]\]
+
+- *Another Research Paper on Interesting Methods* \n
+  Coauthor One, Your Name, Coauthor Three \n
+  /International Conference on Machine Learning (ICML), 2024/ \n
+  \[[paper2.pdf PDF]\] \[[https://github.com/yourusername/project2 Code]\]
+
+- *Early Work on Foundation of Research Area* \n
+  Your Name, Advisor Name \n
+  /Conference on Neural Information Processing Systems (NeurIPS), 2023/ \n
+  \[[paper3.pdf PDF]\] \[[https://projectpage.com Project Page]\]
+
+=== Journal Papers
+
+- *Comprehensive Study of Research Problem* \n
+  Your Name, Several Coauthors \n
+  /Journal of Important Research, Vol. 42, No. 3, 2024/ \n
+  \[[journal.pdf PDF]\] \[[https://doi.org/10.1000/xyz DOI]\]
+
+== Teaching
+
+- *CS 101:* Introduction to Computer Science (Fall 2024, Teaching Assistant)
+- *CS 229:* Machine Learning (Spring 2024, Guest Lecturer)
+- *CS 330:* Deep Learning (Fall 2023, Teaching Assistant)
+
+== Service
+
+- *Reviewer:* NeurIPS, ICML, ICLR, CVPR, ICCV
+- *Program Committee:* Workshop on ML Applications (2024)
+- *Organizer:* Department ML Reading Group (2023-2024)
+
+== Selected Projects
+
+- *[https://github.com/yourusername/project1 Project Name One]:* Brief description of an interesting research or course project you completed.
+- *[https://github.com/yourusername/project2 Project Name Two]:* Another project with code available on GitHub.
+- *[https://github.com/yourusername/project3 Project Name Three]:* Open-source tool or library you developed.
+
+~~~
+Last updated: November 2024
+~~~
