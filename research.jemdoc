@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{research.html}, addcss{custom.css}
+= Research Overview
+
+My research focuses on understanding the effect of structure of a network on the behavior of the system using tools such as theory of dynamical systems and algebraic graph theory, and it falls within
+the larger area of networked dynamical systems. It has profound influences on health, economic competitiveness and security - some of the broader impact areas as identified by the National Science Foundation (NSF); and areas that are of strong interest to Defence Advanced Research Projects Agency (DARPA) and to the National Institutes of Health (NIH). Specifically, my research program is centered around three specific instances of networked systems:
+- Epidemiological networks (i.e., networks that influence the spread of a disease); 
+- Social networks (such as Twitter, Instagram, Facebook) over which individuals share their opinions on various issues of the day; and
+- Security of cyber-physical systems (CPS) (i.e., networked systems that have coupling between the physical and cyber space; e.g., power networks, water distribution networks)
+
+~
+The overarching goal of my research is to deepen our fundamental knowledge of networked dynamical systems. Specifically, I aim to provide foundational understanding for a) effective and efficient data-based decision making and policy design in epidemic scenarios, and b) collective intelligence. To this end, I leverage recent developments in the areas of epidemic process modeling, and dynamical systems theory. With respect to security of CPS, my goal is to identify (topology-dependent) conditions that, given a sequence of network measurements, enables inference of the state of the network.
+~
